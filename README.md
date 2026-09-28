@@ -1,1 +1,1 @@
-This is Campbell's repo.
+This is Campbell's repo for CS 193.
